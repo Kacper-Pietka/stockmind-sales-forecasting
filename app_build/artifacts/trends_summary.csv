@@ -1,0 +1,75 @@
+category,last_4w_sales,prev_4w_sales,change_pct,trend
+Odzież damska,3.0,0.0,100.0,rosnący 📈
+Komputery,12.0,6.0,100.0,rosnący 📈
+Odzież sportowa,1.0,0.0,100.0,rosnący 📈
+Muzyka,5.0,3.0,66.7,rosnący 📈
+Artykuły imprezowe,10.0,6.0,66.7,rosnący 📈
+Żywność,102.0,65.0,56.9,rosnący 📈
+Marketplace,7.0,5.0,40.0,rosnący 📈
+Konsole i gry,53.0,38.0,39.5,rosnący 📈
+Narzędzia budowlane,135.0,117.0,15.4,rosnący 📈
+Kino i fotografia,8.0,7.0,14.3,rosnący 📈
+Bezpieczeństwo domu,20.0,18.0,11.1,rosnący 📈
+Książki - ogólne,28.0,26.0,7.7,stabilny ➡️
+Pieluchy i higiena,3.0,3.0,0.0,stabilny ➡️
+Materace i tapicerka,0.0,0.0,0.0,stabilny ➡️
+Odzież dziecięca i młodzieżowa,0.0,0.0,0.0,stabilny ➡️
+DVD i Blu-ray,1.0,1.0,0.0,stabilny ➡️
+Bielizna i odzież plażowa,1.0,1.0,0.0,stabilny ➡️
+Płyty CD/DVD muzyczne,0.0,0.0,0.0,stabilny ➡️
+Akcesoria kuchenne,0.0,0.0,0.0,stabilny ➡️
+Tablety i druk,0.0,0.0,0.0,stabilny ➡️
+Ubezpieczenia i usługi,0.0,0.0,0.0,stabilny ➡️
+Książki techniczne,24.0,25.0,-4.0,stabilny ➡️
+Torebki i akcesoria,91.0,95.0,-4.2,stabilny ➡️
+Audio,23.0,24.0,-4.2,stabilny ➡️
+Napoje,20.0,21.0,-4.8,stabilny ➡️
+Zabawki,134.0,146.0,-8.2,stabilny ➡️
+Przemysł i biznes,10.0,11.0,-9.1,stabilny ➡️
+Walizki i akcesoria podróżne,52.0,58.0,-10.3,spadający 📉
+Żywność i napoje,17.0,19.0,-10.5,spadający 📉
+Artykuły świąteczne,8.0,9.0,-11.1,spadający 📉
+Sklep zoologiczny,151.0,170.0,-11.2,spadający 📉
+Artykuły gospodarstwa domowego,492.0,556.0,-11.5,spadający 📉
+Motoryzacja,303.0,344.0,-11.9,spadający 📉
+Oświetlenie,51.0,58.0,-12.1,spadający 📉
+Uroda i zdrowie,654.0,760.0,-13.9,spadający 📉
+"Pościel, ręczniki, łazienka",520.0,608.0,-14.5,spadający 📉
+Sport i rekreacja,370.0,439.0,-15.7,spadający 📉
+Meble do sypialni,10.0,12.0,-16.7,spadający 📉
+Telefony,205.0,251.0,-18.3,spadający 📉
+Piekarniki i ekspresy,13.0,16.0,-18.8,spadający 📉
+Oznakowanie i bezpieczeństwo,18.0,23.0,-21.7,spadający 📉
+Perfumeria,165.0,213.0,-22.5,spadający 📉
+Meble i dekoracje,329.0,435.0,-24.4,spadający 📉
+Gadżety,90.0,119.0,-24.4,spadający 📉
+Narzędzia ogrodowe (sklep),113.0,152.0,-25.7,spadający 📉
+AGD,53.0,72.0,-26.4,spadający 📉
+Akcesoria komputerowe,315.0,428.0,-26.4,spadający 📉
+Instrumenty muzyczne,31.0,43.0,-27.9,spadający 📉
+Narzędzia,10.0,14.0,-28.6,spadający 📉
+Elektronika użytkowa,94.0,145.0,-35.2,spadający 📉
+Artykuły papiernicze,127.0,200.0,-36.5,spadający 📉
+Budowa i remont,36.0,57.0,-36.8,spadający 📉
+Narzędzia ogrodowe,15.0,24.0,-37.5,spadający 📉
+Meble kuchenne i ogrodowe,13.0,21.0,-38.1,spadający 📉
+Niemowlęta,145.0,237.0,-38.8,spadający 📉
+Obuwie,3.0,5.0,-40.0,spadający 📉
+Zegarki i prezenty,298.0,533.0,-44.1,spadający 📉
+nieznana,26.0,48.0,-45.8,spadający 📉
+Telefonia stacjonarna,7.0,13.0,-46.2,spadający 📉
+Sztuka i rękodzieło,7.0,13.0,-46.2,spadający 📉
+Klimatyzacja i wentylacja,12.0,23.0,-47.8,spadający 📉
+AGD kuchenne,4.0,8.0,-50.0,spadający 📉
+Małe AGD elektroniczne,18.0,36.0,-50.0,spadający 📉
+PC gamingowe,1.0,2.0,-50.0,spadający 📉
+Książki importowane,1.0,2.0,-50.0,spadający 📉
+Meble do salonu,28.0,57.0,-50.9,spadający 📉
+Sztuka,10.0,23.0,-56.5,spadający 📉
+AGD II,10.0,24.0,-58.3,spadający 📉
+Komfort domowy,11.0,27.0,-59.3,spadający 📉
+Rolnictwo i przemysł,11.0,32.0,-65.6,spadający 📉
+Odzież męska,2.0,6.0,-66.7,spadający 📉
+Meble biurowe,22.0,76.0,-71.1,spadający 📉
+Kwiaty,0.0,2.0,-100.0,spadający 📉
+Komfort domowy II,0.0,3.0,-100.0,spadający 📉

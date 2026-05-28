@@ -1,19 +1,11 @@
-# Dane (wrażliwe / duże - nie wgrywamy na GitHub)
-*.csv
-dane/
+# Logi treningu CatBoost (generowane automatycznie, brak wartości w repo)
+catboost_info/
+
+# Duplikat wyników (te same pliki są w app_build/artifacts/)
 output/
 
-# Modele i artefakty ML
-catboost_info/
-app_build/
-*.pkl
-*.joblib
-*.h5
-
-# Jupyter
+# Standardowe śmieci Pythona/Jupytera
 .ipynb_checkpoints/
-
-# Python
 __pycache__/
 *.pyc
 .venv/

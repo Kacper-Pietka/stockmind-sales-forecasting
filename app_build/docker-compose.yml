@@ -1,0 +1,29 @@
+services:
+  backend:
+    build: ./backend
+    container_name: sales_forecast_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Artefakty z notebooka montujemy z hosta -> kontener
+      - ./artifacts:/artifacts:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  frontend:
+    build: ./frontend
+    container_name: sales_forecast_frontend
+    ports:
+      - "8501:8501"
+    environment:
+      # Frontend (w kontenerze) musi widzieć backend pod nazwą serwisu z docker-compose
+      - API_URL=http://backend:8000
+    depends_on:
+      - backend
+    restart: unless-stopped

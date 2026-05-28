@@ -1,0 +1,8 @@
+metric,value
+model,CatBoost (tuned)
+RMSE,16.292720517041975
+MAE,7.74396584459403
+MAPE,103.05311892114565
+n_features,28
+train_size,4899
+test_size,1065
