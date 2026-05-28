@@ -1,0 +1,24 @@
+# Dane (wrażliwe / duże - nie wgrywamy na GitHub)
+*.csv
+dane/
+output/
+
+# Modele i artefakty ML
+catboost_info/
+app_build/
+*.pkl
+*.joblib
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Systemowe
+.DS_Store
+desktop.ini
